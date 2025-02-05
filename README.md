@@ -14,7 +14,7 @@ Bob's Platformer was created to learn the Godot game engine and its scripting la
 
 ## How to Run the Game
 
-1.  **Download Godot:** Download and install the Godot Engine from the official Godot website ([https://godotengine.org/](https://godotengine.org/)).
+1.  **Download Godot:** Download and install the Godot Engine from the official [Godot website](https://godotengine.org/).
 2.  **Clone or Download the Project:** Clone this repository or download the project files as a ZIP archive.
 3.  **Open in Godot:** Open the Godot Engine. Use the "Import" or "Open" project functionality within Godot to load the project from the directory where you cloned or extracted it.
 4.  **Run the Game:** Press the "Play" button within the Godot editor to run the game.
